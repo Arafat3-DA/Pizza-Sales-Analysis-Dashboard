@@ -47,6 +47,6 @@ For queries or collaboration opportunities:
 
 📬 Email: arafatsiddiqui3@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/arafat-siddiqui/
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/arafat-siddiqui/">Arafat Siddiqui<a/>
 
 🌐 Portfolio: https://arafatsiddiqui.carrd.co/
