@@ -55,4 +55,7 @@ Recognize trends and adjust operations accordingly.
 Contributions are welcome! Feel free to fork this repository and submit pull requests. For feedback or feature requests, please open an issue or connect with me on LinkedIn.
 
 ## 📧 Contact
-For any queries or collaboration opportunities, reach out to me at arafatsiddiqui3@gmail.com or connect with me on LinkedIn.
+For queries or collaboration opportunities:
+📬 Email: arafatsiddiqui3@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/arafat-siddiqui/
+🌐 Portfolio: https://arafatsiddiqui.carrd.co/
