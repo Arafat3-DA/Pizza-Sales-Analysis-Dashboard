@@ -1,34 +1,55 @@
-# Pizza Sales Analysis Dashboard
+# Pizza Sales Analysis Dashboard – Power BI
 
 ## Project Overview 🚀
 
-The Pizza Sales Analysis Report is a comprehensive Power BI project designed to provide insightful and actionable data-driven insights for a pizza restaurant or chain. This report focuses on various key performance indicators and trends to help the business make informed decisions, optimize sales, and enhance customer satisfaction📈.
+The Pizza Sales Analysis Report is a dynamic Power BI dashboard designed to deliver actionable insights for pizza restaurants or chains. The project focuses on analyzing sales trends, customer behaviour, and product performance to support data-driven decision-making, boost revenue, and enhance operational efficiency.
 
-### 1. Key Metrics and Visualizations🎯:
+## 📁 Project Structure
+The report is organized into two main pages:
 
-・💰 Total Revenue: Visualize the total revenue generated over a specific time period to track financial performance.
-・💳 Average Order Value: Display the average order value, offering insights into customer spending habits.
-・🍕 Total Pizza Sold: Present the total number of pizzas sold, providing a clear picture of product demand.
-・📦 Total Orders: Showcase the total number of orders processed during the reporting period.
-・🛒 Average Pizza per Order: Analyze the average number of pizzas per order, offering insights into customer preferences.
-・📊 Daily Trend by Orders: Provide a daily trend chart to help identify patterns and seasonality in order volume.
-・📈 Monthly Trend by Orders: Display a monthly trend chart to identify long-term trends and seasonal variations.
-・📊 % of Sales by Pizza Category: Illustrate the distribution of sales across different pizza categories, assisting in menu optimization.
-・📊 % of Sales by Pizza Size: Visualize the percentage of sales for various pizza sizes, aiding in portion control and pricing strategies.
-・📈 Total Pizza Sold by Pizza Category: Present the total number of pizzas sold within each category for deeper product analysis.
+Key Metrics & Visuals – Provides a comprehensive view of business performance.
 
-### 2. Best & Worst Seller Tabs 🏆📉:
+Best & Worst Sellers – Highlights top and bottom-performing pizzas based on revenue, quantity sold, and total orders.
 
-Within the Best & Worst Seller tabs, the report provides actionable insights by identifying the top and bottom performers in various aspects:
+## 🔑 Key Features and KPIs
 
-・💰 Top 5 Pizzas by Revenue: Highlight the most profitable pizzas based on revenue.
-・🍕 Top 5 Pizzas by Quantity: Identify the top-selling pizzas based on the number of units sold.
-・📦 Top 5 Pizzas by Total Orders: Recognize the pizzas that receive the highest number of orders.
-・💰 Bottom 5 Pizzas by Revenue: Identify the least profitable pizzas based on revenue.
-・🍕 Bottom 5 Pizzas by Quantity: Determine the least popular pizzas based on the number of units sold.
-・📦 Bottom 5 Pizzas by Total Orders: Recognize the pizzas with the lowest order volumes.
+### Key Metrics & Visualizations:
+Total Revenue – Tracks overall income over a selected period.
 
-This report is designed for my clients who seek data-driven decision-making and improved business performance. It is created using Microsoft Power BI, harnessing its data visualization and analysis capabilities📈.
+Average Order Value – Provides insights into average customer spending.
+
+Total Pizzas Sold – Displays the total quantity of pizzas sold.
+
+Total Orders – Shows the total number of transactions.
+
+Average Pizzas per Order – Analyzes customer buying behavior.
+
+Daily Order Trend – Visualizes daily order patterns for seasonality analysis.
+
+Monthly Order Trend – Highlights long-term sales trends.
+
+Sales by Pizza Category (%) – Breaks down sales distribution by pizza type.
+
+Sales by Pizza Size (%) – Shows revenue share by pizza sizes.
+
+Pizza Sales by Category – Deep dives into category-level product performance.
+
+### Best & Worst Sellers:
+
+Top 5 Pizzas by Revenue, Quantity, and Orders – Identifies top-performing menu items.
+
+Bottom 5 Pizzas by Revenue, Quantity, and Orders – Pinpoints underperforming items for review or removal.
+
+## 📈 Impact and Value
+This Power BI dashboard enables business owners, managers, and decision-makers to:
+
+Monitor sales performance in real-time.
+
+Identify customer preferences and best-selling items.
+
+Optimize the menu and pricing strategies.
+
+Recognize trends and adjust operations accordingly.
 
 ## 🤝 Contributions and Feedback
 Contributions are welcome! Feel free to fork this repository and submit pull requests. For feedback or feature requests, please open an issue or connect with me on LinkedIn.
